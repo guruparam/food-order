@@ -66,7 +66,7 @@ PostgreSQL Database (port 5432)
 ```bash
 # Clone repository
 git clone <repo-url>
-cd Slooze-V2
+cd food-order
 
 # Start all services
 docker compose up -d
@@ -97,7 +97,7 @@ docker compose logs -f
 ## 📁 Project Structure
 
 ```
-Slooze-V2/
+food-order/
 ├── app/                          # Next.js Frontend
 │   ├── api/                      # API Routes (Proxy to Backend)
 │   │   ├── auth/                 # Login, Logout
