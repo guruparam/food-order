@@ -96,7 +96,7 @@ export function Navbar() {
                 </div>
                 <button 
                   onClick={handleLogout} 
-                  className="bg-[#919191] hover:bg-red-600 px-4 py-2 rounded-lg transition-colors font-medium shadow-md"
+                  className="bg-[#a41111] hover:bg-red-600 px-4 py-2 rounded-lg transition-colors font-medium shadow-md"
                 >
                   Logout
                 </button>
