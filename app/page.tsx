@@ -19,9 +19,6 @@ export default function Home() {
                 Login
               </button>
             </Link>
-            <button className="bg-gray-200 hover:bg-gray-300 text-gray-900 font-bold py-3 px-8 rounded-lg transition">
-              View Demo
-            </button>
           </div>
 
           <div className="mt-16 grid md:grid-cols-3 gap-8">
